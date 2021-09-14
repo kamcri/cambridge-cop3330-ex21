@@ -52,7 +52,6 @@ public class App
                 System.out.println("The name of the month is December.");
                 break;
         }
-        System.out.println(number);
     }
 }
 
